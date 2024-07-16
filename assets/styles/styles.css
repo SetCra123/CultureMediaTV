@@ -1,0 +1,57 @@
+* {
+    margin:0%;
+}
+
+.hero-image {
+    background-image: url("../images/Hiring-An-Event-Videographer.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+.hero-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%; 
+    font-family: "Play", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color:coral;
+}
+
+
+/* .portfolio-container {
+   
+} */
+
+.col-4 {
+    padding: 2%;
+    display:block;
+    border: 5px 5px 5px 5px;
+    border-color: darkgoldenrod;
+    height: 300px;
+    margin: 0.25%;
+    color:aqua;
+    max-width: 30%;
+    background-image: url("../images/san_francisco_corporate_event_videographer-1-868x1024.jpg");
+}
+
+.col-8 {
+    padding: 2%;
+    display:block; 
+    max-width: 70%;
+    background-image: url("../images/When-Should-You-Book-Your-Wedding-Videographer.webp");
+}   
+
+.col-3 {
+    padding: 2%;
+    display:block;
+    background-image: url("../images/images.jpeg");
+}
+
+.col-9 {
+    padding: 2%;
+    display:block;
+    background-image: url("../images/young-professional-african-american-videographer-holding-professional-camera-with-tripod-pro-equipment-afro-cameraman-wearing-black-duraq-making-a-vi-2DA3N8X.jpg");
+}
